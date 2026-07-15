@@ -1,0 +1,112 @@
+{
+  "DatCon__DJI_V1": {
+    "rows": 441641,
+    "error": ""
+  },
+  "DROP__DJI_V1": {
+    "rows": 0,
+    "error": "timeout/crash"
+  },
+  "Fodogu__DJI_V1": {
+    "rows": 0,
+    "error": "timeout/crash"
+  },
+  "pymavlink__DJI_V1": {
+    "msgs": 0,
+    "error": "timeout/crash"
+  },
+  "GRYPHON__DJI_V1": {
+    "parsed": false,
+    "error": "timeout/crash"
+  },
+  "DatCon__DJI_V3": {
+    "rows": -1,
+    "error": "Exception in thread \"main\" java.lang.NullPointerException: Cannot invoke \"java.nio.MappedByteBuffer."
+  },
+  "DROP__DJI_V3": {
+    "rows": 1
+  },
+  "Fodogu__DJI_V3": {
+    "rows": 1365
+  },
+  "pymavlink__DJI_V3": {
+    "msgs": 73,
+    "gps": 0
+  },
+  "GRYPHON__DJI_V3": {
+    "parsed": true,
+    "sections": 13
+  },
+  "DatCon__DJI_LOGH": {
+    "rows": 0,
+    "error": "Exception in thread \"main\" java.lang.StringIndexOutOfBoundsException: Range [16, 21) out of bounds f"
+  },
+  "DROP__DJI_LOGH": {
+    "rows": 0
+  },
+  "Fodogu__DJI_LOGH": {
+    "rows": 0
+  },
+  "pymavlink__DJI_LOGH": {
+    "msgs": 0,
+    "error": "timeout/crash"
+  },
+  "GRYPHON__DJI_LOGH": {
+    "parsed": true,
+    "sections": 13
+  },
+  "DatCon__DJI_DFLY": {
+    "rows": 0,
+    "error": "Exception in thread \"main\" src.Files.NotDatFile\n\tat src.Files.DatFile.createDatFile(DatFile.java:148"
+  },
+  "DROP__DJI_DFLY": {
+    "rows": 0
+  },
+  "Fodogu__DJI_DFLY": {
+    "rows": 0
+  },
+  "pymavlink__DJI_DFLY": {
+    "msgs": 19,
+    "gps": 0
+  },
+  "GRYPHON__DJI_DFLY": {
+    "parsed": true,
+    "sections": 13
+  },
+  "DatCon__ArduPilot_BIN": {
+    "rows": 0,
+    "error": "Exception in thread \"main\" src.Files.NotDatFile\n\tat src.Files.DatFile.createDatFile(DatFile.java:150"
+  },
+  "DROP__ArduPilot_BIN": {
+    "rows": 0
+  },
+  "Fodogu__ArduPilot_BIN": {
+    "rows": 0
+  },
+  "pymavlink__ArduPilot_BIN": {
+    "msgs": 4382,
+    "gps": 30
+  },
+  "GRYPHON__ArduPilot_BIN": {
+    "parsed": true,
+    "sections": 13
+  },
+  "DatCon__Yuneec_BIN": {
+    "rows": 0,
+    "error": "Exception in thread \"main\" src.Files.NotDatFile\n\tat src.Files.DatFile.createDatFile(DatFile.java:150"
+  },
+  "DROP__Yuneec_BIN": {
+    "rows": 0
+  },
+  "Fodogu__Yuneec_BIN": {
+    "rows": 0
+  },
+  "pymavlink__Yuneec_BIN": {
+    "msgs": 0,
+    "gps": 0
+  },
+  "GRYPHON__Yuneec_BIN": {
+    "parsed": true,
+    "sections": 13
+  }
+}

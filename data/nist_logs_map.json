@@ -1,0 +1,33 @@
+{
+  "light": [],
+  "heavy": [
+    {
+      "image": "DF001_DJI_Phantom3",
+      "path": "/2018_June/flight_logs/flight_logs.zip",
+      "size": 911684576,
+      "id": "16yXDWkGk2wqHrSGAyZ-yg9EVF_WwHAB5",
+      "name": "flight_logs.zip"
+    },
+    {
+      "image": "DF004_DJI_Phantom4",
+      "path": "/2018_June/flight_logs.zip",
+      "size": 4585803255,
+      "id": "17Un3e2DOGncDmGkPWK2DWj_vyfJtblXY",
+      "name": "flight_logs.zip"
+    },
+    {
+      "image": "DF005_DJI_Phantom4",
+      "path": "/2018_June/flight_logs/flight_logs.zip",
+      "size": 2918643222,
+      "id": "1APaoHOs5TFY4m_Zj8Dgm7xgJ8rnyDenu",
+      "name": "flight_logs.zip"
+    },
+    {
+      "image": "DF010_DJI_Inspire1",
+      "path": "/2018_June/flight_logs/flight_logs.zip",
+      "size": 646177385,
+      "id": "1tj2OhmMaf6Kr0sO7PQ_CwQ__SoVAH5gb",
+      "name": "flight_logs.zip"
+    }
+  ]
+}

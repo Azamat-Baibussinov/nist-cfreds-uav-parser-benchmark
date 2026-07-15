@@ -1,0 +1,278 @@
+{
+  "light": [
+    {
+      "image": "DF007_DJI_Spark",
+      "path": "/2018_June/DJI_Assistant_export/DJI_Assistant_Export.zip",
+      "size": 7950694,
+      "id": "1AIASCkeAghIHatRlZtLynB6-_kjnMMcy",
+      "name": "DJI_Assistant_Export.zip",
+      "type": "assistant"
+    },
+    {
+      "image": "DF008_DJI_Spark",
+      "path": "/2018_June/DJI_Assistant_Export/DJI_Assistant_Export.zip",
+      "size": 4473972,
+      "id": "1YH68YISKvKuAZZQa8d_YGyk0ZTSgeNsf",
+      "name": "DJI_Assistant_Export.zip",
+      "type": "assistant"
+    },
+    {
+      "image": "DF014_Yuneec_TyphoonH",
+      "path": "/2018_June/extracted_data/extracted_data.zip",
+      "size": 5372978,
+      "id": "1fAGvdDQZcDPzvP_khsPqB9MZsi_ZW8hG",
+      "name": "extracted_data.zip",
+      "type": "extracted_data"
+    },
+    {
+      "image": "DF015_Yuneec_TyphoonH",
+      "path": "/2018_August/extracted_data/extracted_data.zip",
+      "size": 5393544,
+      "id": "1-hkUFJCpQTEgIaeyezzedHB8DqO_xF3T",
+      "name": "extracted_data.zip",
+      "type": "extracted_data"
+    },
+    {
+      "image": "DF060_DJI_Matrice210",
+      "path": "/2018_June/DJI_Assistant_export_ADB/DJI_Assistant_Export_ADBS.zip",
+      "size": 76795,
+      "id": "1hH1kPFaJOvHYnBxOTt93v3zQ2AUu-_bU",
+      "name": "DJI_Assistant_Export_ADBS.zip",
+      "type": "assistant"
+    }
+  ],
+  "heavy": [
+    {
+      "image": "DF001_DJI_Phantom3",
+      "path": "/2018_June/flight_logs/flight_logs.zip",
+      "size": 911684576,
+      "id": "16yXDWkGk2wqHrSGAyZ-yg9EVF_WwHAB5",
+      "name": "flight_logs.zip",
+      "type": "flight_logs"
+    },
+    {
+      "image": "DF002_DJI_Phantom3",
+      "path": "/2017_June/mobile_iOS_backup/DF002_flight.zip",
+      "size": 204113120,
+      "id": "0B1aBvVt_vSSeYWE4Y1YtMjlRblU",
+      "name": "DF002_flight.zip",
+      "type": "_flight"
+    },
+    {
+      "image": "DF002_DJI_Phantom3",
+      "path": "/2017_June/mobile_android_backup/DF002_flight.zip",
+      "size": 140663130,
+      "id": "0B1aBvVt_vSSeQWV3LVJObnFPWG8",
+      "name": "DF002_flight.zip",
+      "type": "_flight"
+    },
+    {
+      "image": "DF003_DJI_Phantom3",
+      "path": "/2017_June/mobile_iOS_backup/DF003_flight.zip",
+      "size": 217591199,
+      "id": "0B1aBvVt_vSSebkhtQ1k4QXNfa0E",
+      "name": "DF003_flight.zip",
+      "type": "_flight"
+    },
+    {
+      "image": "DF004_DJI_Phantom4",
+      "path": "/2018_June/flight_logs.zip",
+      "size": 4585803255,
+      "id": "17Un3e2DOGncDmGkPWK2DWj_vyfJtblXY",
+      "name": "flight_logs.zip",
+      "type": "flight_logs"
+    },
+    {
+      "image": "DF005_DJI_Phantom4",
+      "path": "/2018_June/flight_logs/flight_logs.zip",
+      "size": 2918643222,
+      "id": "1APaoHOs5TFY4m_Zj8Dgm7xgJ8rnyDenu",
+      "name": "flight_logs.zip",
+      "type": "flight_logs"
+    },
+    {
+      "image": "DF005_DJI_Phantom4",
+      "path": "/2017_June/mobile_iOS_backup/DF005_flight.zip",
+      "size": 275847211,
+      "id": "0B1aBvVt_vSSeY2U0cXRqVE9BR0U",
+      "name": "DF005_flight.zip",
+      "type": "_flight"
+    },
+    {
+      "image": "DF005_DJI_Phantom4",
+      "path": "/2017_June/mobile_android_backup/DF005_flight.zip",
+      "size": 688981303,
+      "id": "0B1aBvVt_vSSeUXVES1lRaXRac3c",
+      "name": "DF005_flight.zip",
+      "type": "_flight"
+    },
+    {
+      "image": "DF006_DJI_Phantom4",
+      "path": "/2017_June/mobile_iOS_backup/DF006_flight.zip",
+      "size": 993349365,
+      "id": "0B1aBvVt_vSSeYXpZY19QY1FQeFk",
+      "name": "DF006_flight.zip",
+      "type": "_flight"
+    },
+    {
+      "image": "DF006_DJI_Phantom4",
+      "path": "/2017_June/mobile_android_backup/DF006_flight.zip",
+      "size": 466890071,
+      "id": "0B1aBvVt_vSSebDJzTDVZS1Q4NjQ",
+      "name": "DF006_flight.zip",
+      "type": "_flight"
+    },
+    {
+      "image": "DF008_DJI_Spark",
+      "path": "/2017_June/mobile_iOS_backup/DF008_flight.zip",
+      "size": 220060270,
+      "id": "0B1aBvVt_vSSeX3NObHpid3dkdFE",
+      "name": "DF008_flight.zip",
+      "type": "_flight"
+    },
+    {
+      "image": "DF010_DJI_Inspire1",
+      "path": "/2018_June/flight_logs/flight_logs.zip",
+      "size": 646177385,
+      "id": "1tj2OhmMaf6Kr0sO7PQ_CwQ__SoVAH5gb",
+      "name": "flight_logs.zip",
+      "type": "flight_logs"
+    },
+    {
+      "image": "DF010_DJI_Inspire1",
+      "path": "/2017_August/mobile_iOS/DF010_flight.zip",
+      "size": 397406757,
+      "id": "0B1aBvVt_vSSeb05sR2NYRWU4a1E",
+      "name": "DF010_flight.zip",
+      "type": "_flight"
+    },
+    {
+      "image": "DF011_DJI_Inspire1",
+      "path": "/2017_August/mobile_iOS/DF011_flight.zip",
+      "size": 219369308,
+      "id": "0B1aBvVt_vSSeYk1TLXowRXpjeW8",
+      "name": "DF011_flight.zip",
+      "type": "_flight"
+    },
+    {
+      "image": "DF018_Parrot_DiscoFPV",
+      "path": "/2017_August/mobile_iOS_backup/df018_flight_ios_backup.zip",
+      "size": 352473403,
+      "id": "0B1aBvVt_vSSeYXU0TGd6NUVDVm8",
+      "name": "df018_flight_ios_backup.zip",
+      "type": "_flight"
+    },
+    {
+      "image": "DF019_DJI_MavicPro",
+      "path": "/2018_June/DJI_Assistant_export/DJI_Assistant_Export.zip",
+      "size": 185728260,
+      "id": "1V16pmmik2GJsEZiLqdaJUpsSFkTb_8LU",
+      "name": "DJI_Assistant_Export.zip",
+      "type": "assistant"
+    },
+    {
+      "image": "DF019_DJI_MavicPro",
+      "path": "/2017_August/mobile_iOS_backup/df019_flight_ios_backup.zip",
+      "size": 243238443,
+      "id": "0B1aBvVt_vSSebUhKRzcwQzNNaU0",
+      "name": "df019_flight_ios_backup.zip",
+      "type": "_flight"
+    },
+    {
+      "image": "DF020_DJI_MavicPro",
+      "path": "/2018_June/DJI_Assistant_export/DJI_Assistant_Export.zip",
+      "size": 160071024,
+      "id": "19Yq8wUOoac1qRbPXLL9qF8W-s7ErPQGI",
+      "name": "DJI_Assistant_Export.zip",
+      "type": "assistant"
+    },
+    {
+      "image": "DF020_DJI_MavicPro",
+      "path": "/2017_August/mobile_iOS_backup/df020_flight_ios_backup.zip",
+      "size": 698544846,
+      "id": "0B1aBvVt_vSSeWHQyVnlpeTgtN0E",
+      "name": "df020_flight_ios_backup.zip",
+      "type": "_flight"
+    },
+    {
+      "image": "DF021_DJI_MavicPro",
+      "path": "/2017_August/mobile_iOS_backup/df021_flight_ios_backup.zip",
+      "size": 1325382092,
+      "id": "0B1aBvVt_vSSeNV9VYWRKZHVLYTA",
+      "name": "df021_flight_ios_backup.zip",
+      "type": "_flight"
+    },
+    {
+      "image": "DF022_Parrot_Bebop2",
+      "path": "/2017_August/mobile_iOS_backup/df022_flight_ios_backup.zip",
+      "size": 165845730,
+      "id": "0B1aBvVt_vSSeakhnRWhDV1gxV1U",
+      "name": "df022_flight_ios_backup.zip",
+      "type": "_flight"
+    },
+    {
+      "image": "DF023_Parrot_Bebop2",
+      "path": "/2017_August/mobile_iOS_backup/df023_flight_ios_backup.zip",
+      "size": 164852851,
+      "id": "0B1aBvVt_vSSec3MzYmlIenluYmM",
+      "name": "df023_flight_ios_backup.zip",
+      "type": "_flight"
+    },
+    {
+      "image": "DF024_Parrot_Bebop2",
+      "path": "/2017_August/mobile_iOS_backup/df024_flight_ios_backup.zip",
+      "size": 170900431,
+      "id": "0B1aBvVt_vSSeWTVqeDU4WEpLRUU",
+      "name": "df024_flight_ios_backup.zip",
+      "type": "_flight"
+    },
+    {
+      "image": "DF025_DJI_Inspire2",
+      "path": "/2017_August/mobile_iOS_backup/df025_flight_ios_backup.zip",
+      "size": 205796020,
+      "id": "0B1aBvVt_vSSeTVh0cThnYmpnSnM",
+      "name": "df025_flight_ios_backup.zip",
+      "type": "_flight"
+    },
+    {
+      "image": "DF026_DJI_Inspire2",
+      "path": "/2017_August/mobile_iOS_backup/df026_flight_ios_backup.zip",
+      "size": 313791879,
+      "id": "0B1aBvVt_vSSeV1lhalBRempqT0k",
+      "name": "df026_flight_ios_backup.zip",
+      "type": "_flight"
+    },
+    {
+      "image": "DF027_DJI_Inspire2",
+      "path": "/2017_August/mobile_iOS_backup/df027_flight_ios_backup.zip",
+      "size": 169687998,
+      "id": "0B1aBvVt_vSSeR0FrR1o5S3pCNFU",
+      "name": "df027_flight_ios_backup.zip",
+      "type": "_flight"
+    },
+    {
+      "image": "DF034_DJI_Matrice600Pro",
+      "path": "/2018_June/flight_logs/Flight_Logs.zip",
+      "size": 1735613663,
+      "id": "1HWm_VR-hcO6Wk6q8ODHqwQp4t-gMokVY",
+      "name": "Flight_Logs.zip",
+      "type": "flight_logs"
+    },
+    {
+      "image": "DF050_DJI_MavicAir",
+      "path": "/2018_April/DJI_Assistant_export/dji_assistant_export.zip",
+      "size": 2055963306,
+      "id": "1_DX2qKqUuziIvd3wsHh2MTc1rixmTVV3",
+      "name": "dji_assistant_export.zip",
+      "type": "assistant"
+    },
+    {
+      "image": "DF069_DJI_Mavic2Pro",
+      "path": "/2018_September/DJI_assistant_export/DJI_ASSISTANT_EXPORT.zip",
+      "size": 1955234206,
+      "id": "1AcbRr_f6MvmtIYadDR43y1WECrPRb2U-",
+      "name": "DJI_ASSISTANT_EXPORT.zip",
+      "type": "assistant"
+    }
+  ]
+}
