@@ -5,7 +5,7 @@ Replication package for the paper:
 **"No Single Tool Fits All: A Cross-Ecosystem Benchmark of Open-Source UAV
 Flight Log Parsers on the NIST CFReDS Corpus"**
 
-Submitted to: Computers & Security (Elsevier)
+Submitted to: Forensic Science International: Digital Investigation (Elsevier)
 
 ## Structure
 
